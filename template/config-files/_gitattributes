@@ -1,0 +1,11 @@
+* text=auto
+*.txt		text
+
+# 对于图片资源标记为非文本
+*.jpg  -text
+*.png  -text
+
+*.sh		   text eol=lf
+
+# 开启所有
+* eol=lf

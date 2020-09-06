@@ -1,0 +1,12 @@
+{
+  "all": true,
+  "check-coverage": true,
+  "include": [
+    "src/**/*function.js"
+  ],
+  "exclude": [
+    "src/**/*index.js",
+    "src/**/*test.js"
+  ],
+  "extends": "@istanbuljs/nyc-config-babel"
+}
