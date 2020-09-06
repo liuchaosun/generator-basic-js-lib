@@ -1,6 +1,6 @@
 {
   "name": "generator-basic-js-lib",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "生成基础 js 工具库的初始化工具依赖",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -26,7 +26,7 @@
     "url": "https://github.com/liuchaosun/generator-basic-js-lib/issues"
   },
   "homepage": "https://github.com/liuchaosun/generator-basic-js-lib#readme",
-  "devDependencies": {
+  "dependencies": {
     "yeoman-generator": "^4.12.0"
   }
 }
